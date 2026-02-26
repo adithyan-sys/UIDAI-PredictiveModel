@@ -37,8 +37,8 @@ Run the notebooks in seconds:
 
 ```bash
 # Clone & enter repo
-git clone https://github.com/[yourusername]/UIDAI-Aadhaar-Enrolment-Analysis-Hackathon-2026.git
-cd UIDAI-Aadhaar-Enrolment-Analysis-Hackathon-2026
+git clone https://github.com/adithyan-sys/UIDAI-PredictiveModel.git
+cd UIDAI-PredictiveModel
 
 # Install dependencies
 pip install -r requirements.txt
