@@ -1,7 +1,7 @@
 # UIDAI-PredictiveModel
 <div align="center">
 
-  <h1>🔍 UIDAI Aadhaar Enrolment Insights – Hackathon 2026</h1>
+  <h1>🔍 UIDAI Aadhaar Enrolment Insight – Hackathon 2026</h1>
 
   <p>
     <strong>End-to-end analysis of anonymized Aadhaar biometric & demographic updates</strong><br>
